@@ -10,12 +10,12 @@ VIVEトラッカーのトラッキング品質を部屋のヒートマップと�
 | ファイル | 内容 |
 |---|---|
 | `Lighthouse-Monitor_<version>_x64-setup.exe` | インストーラー版 |
-| `Lighthouse-Monitor_<version>_x64-portable.exe` | ポータブル版（インストール不要、exe 単体で動作） |
+| `lighthouse-monitor.exe` | ポータブル版（インストール不要、exe 単体で動作） |
 
 アプリは起動時にこのリポジトリの最新リリースを確認し、新しいバージョンがあれば画面上で更新できます。
 
 ## English
 
 Distribution repository for Lighthouse Monitor, a Windows tool that measures VIVE Tracker tracking quality and visualizes it as a heatmap of your room.
-Download the installer (`*-setup.exe`) or the portable executable (`*-portable.exe`) from the [latest release](https://github.com/maguro02/lighthouse-monitor/releases/latest).
+Download the installer (`*-setup.exe`) or the portable executable (`lighthouse-monitor.exe`) from the [latest release](https://github.com/maguro02/lighthouse-monitor/releases/latest).
 The app checks this repository for new releases on startup and can update itself in place.
